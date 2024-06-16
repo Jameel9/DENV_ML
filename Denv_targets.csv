@@ -1,0 +1,5 @@
+target_chembl_id,Name,UniProt Accessions,Type,Organism,Compounds,Activities,Tax ID,Species Group Flag
+CHEMBL5980,Dengue virus type 2 NS3 protein,P29990,SINGLE PROTEIN,Dengue virus type 2 (strain Thailand/16681/1984) (DENV-2),1569,2214,31634,FALSE
+CHEMBL5419,Genome polyprotein,P06935,SINGLE PROTEIN,West Nile virus,431,601,11082,FALSE
+CHEMBL4523307,Genome polyprotein,Q32ZE1,SINGLE PROTEIN,Zika virus,22,22,64320,FALSE
+CHEMBL3308998,Genome polyprotein,P12823,SINGLE PROTEIN,Dengue virus type 2,35,78,11066,FALSE
