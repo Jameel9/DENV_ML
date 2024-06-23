@@ -1,2 +1,2 @@
 # DENV_ML_paper
-Files related to the paper of DENV protease inhibitors predicted via machine learning.
+Machine-Learning Approach to Identify Potential Dengue Virus Protease Inhibitors: A Computational perspective.
